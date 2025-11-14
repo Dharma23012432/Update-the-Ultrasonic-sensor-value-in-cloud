@@ -1,6 +1,6 @@
 # Reg No : 212223040037
 # Name : Dharmalingam S
-# Update-the-Ultrasonic-sensor-value-in-Things Mate
+# Ex7 : Update-the-Ultrasonic-sensor-value-in-Things Mate
 
 # AIM:
 To upload the Ultrasonic sensor value in the Things mate using Arduino controller.
