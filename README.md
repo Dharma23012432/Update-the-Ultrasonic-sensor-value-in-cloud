@@ -220,7 +220,7 @@ function Decoder(bytes, port) {
 # OUTPUT:
 <img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/1d164884-46e9-43d8-8298-bd06ad81e367" />
 <img width="1918" height="973" alt="image" src="https://github.com/user-attachments/assets/effd2983-055c-48ab-b417-1d9a01341a5e" />
-<img width="1918" height="973" alt="image" src="https://github.com/user-attachments/assets/e1b009d8-fdcc-4d2c-98cb-2f999d327405" />
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/7249e69d-fd87-4532-b262-9a5827792f97" />
 
 
 # RESULT:
